@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1710005042 source:c:\users\user\downloads\task2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1709999957 source:c:\users\user\downloads\task2\dec.c
+
+1710005044 c:\users\user\downloads\task2\main.h
+
+1709998963 c:\users\user\downloads\task2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1709999957 c:\users\user\downloads\task2\dec.c
+
+1709999957 source:c:\users\user\downloads\task 2\task2\dec.c
+
+1710005042 source:c:\users\user\downloads\task 2\task2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1710005044 c:\users\user\downloads\task 2\task2\main.h
+
+1709999958 source:c:\users\gharboby\downloads\task2\dec.c
+
+1710005044 source:c:\users\gharboby\downloads\task2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1710005046 c:\users\gharboby\downloads\task2\main.h
+
